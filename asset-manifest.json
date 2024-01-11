@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ewnetaweyzerooo/static/css/main.e4294250.css",
-    "main.js": "/ewnetaweyzerooo/static/js/main.c727a8c2.js",
+    "main.css": "/ewnetaweyzerooo/static/css/main.b85fb1c8.css",
+    "main.js": "/ewnetaweyzerooo/static/js/main.9810512d.js",
     "static/media/service.png": "/ewnetaweyzerooo/static/media/service.c709e446e0c7636999e3.png",
     "static/media/financial-advisor_4256762-removebg-preview.png": "/ewnetaweyzerooo/static/media/financial-advisor_4256762-removebg-preview.b930507ac62a50a3ac14.png",
     "static/media/img1.png": "/ewnetaweyzerooo/static/media/img1.2feb3beac45e787464e2.png",
@@ -36,11 +36,11 @@
     "static/media/worker7.png": "/ewnetaweyzerooo/static/media/worker7.d4225eaad1cfc24c68ae.png",
     "static/media/worker4.jpg": "/ewnetaweyzerooo/static/media/worker4.604bb631c1c7da8f6f63.jpg",
     "index.html": "/ewnetaweyzerooo/index.html",
-    "main.e4294250.css.map": "/ewnetaweyzerooo/static/css/main.e4294250.css.map",
-    "main.c727a8c2.js.map": "/ewnetaweyzerooo/static/js/main.c727a8c2.js.map"
+    "main.b85fb1c8.css.map": "/ewnetaweyzerooo/static/css/main.b85fb1c8.css.map",
+    "main.9810512d.js.map": "/ewnetaweyzerooo/static/js/main.9810512d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4294250.css",
-    "static/js/main.c727a8c2.js"
+    "static/css/main.b85fb1c8.css",
+    "static/js/main.9810512d.js"
   ]
 }
